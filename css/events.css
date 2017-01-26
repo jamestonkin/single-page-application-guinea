@@ -1,0 +1,32 @@
+.blue {
+ color: blue;
+}
+
+.large {
+ font-size: 2em;
+}
+
+.bordered {
+ border: 2px dotted purple;
+}
+
+.rounded {
+ border-radius: 10px;
+}
+
+.red {
+ color: red;
+}
+
+.article-section:first-child {
+  font-weight: bold;
+}
+
+.article-section:last-child {
+  font-style: italic;
+  font-weight: bold;
+}
+
+button {
+  display: block;
+}
